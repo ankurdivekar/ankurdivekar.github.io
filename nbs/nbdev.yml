@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ankurdivekar.github.io"
+  site-url: "https://ankurdivekar.github.io/ankurdivekar.github.io"
+  description: "Landing page for GitHub.io"
+  repo-branch: main
+  repo-url: "https://github.com/ankurdivekar/ankurdivekar.github.io"
